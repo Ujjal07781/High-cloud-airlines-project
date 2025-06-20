@@ -5,7 +5,7 @@ I have analyzed flight operation and customer data for High Cloud Airlines to un
 ## Tools Used
 - SQL for data extraction and transformation
 - Excel for initial data cleaning
-- Power BI for data visualization and interactive dashboard creation
+- Tableau for data visualization and interactive dashboard creation
 
 ## Key Analysis Tasks
 - Load Factor Analysis on a yearly, quarterly, and monthly basis 
